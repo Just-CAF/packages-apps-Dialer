@@ -30,7 +30,7 @@
   </style>
 
   <style name="DialtactsSearchBarThemeOverlay" parent="ThemeOverlay.AppCompat">
-      <item name="android:background">@*android:color/primary_dark_device_default_settings</item>
+      <item name="android:background">@*android:color/primary_device_default_settings</item>
   </style>
 
   <!-- Text in the action bar at the top of the screen -->
